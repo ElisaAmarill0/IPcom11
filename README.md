@@ -6,7 +6,7 @@ La tarea consiste en clonar este repositorio, modificarlo, y subir los cambios r
 # Paso a paso:
 ### Paso 1: clonar el repositorio
 ```bash
-$ git clone https://github.com/LuciaSoria5/IPcom09.git
+$ git clone https://github.com/LuciaSoria5/IPcom11.git
 ```
 
 ### Paso 2: modifcar el archivo
