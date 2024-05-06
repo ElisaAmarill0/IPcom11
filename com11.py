@@ -2,7 +2,7 @@ print("¡Generemos un conflicto en esta linea!")
 
 
 print("*********** Profes ***********")
-print("Alicia, Omar, Lucía                      -----> ESCRIBIR AQUI")
+print("Alicia, Omar, Lucía                      -----> Omar estuvo aqui")
 
 print("\n*********** Alumnos ***********")
 print("Acuña, German Federico                   -----> ESCRIBIR AQUI")
